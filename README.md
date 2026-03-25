@@ -3,7 +3,7 @@
 A smart mirror built with Python and computer vision that detects facial expressions in real time and adapts its interface accordingly.
 The project runs on a Raspberry Pi with a camera module and provides an interactive dashboard with emotion-aware features.
 
-🚀 Features
+ Features
             Real-time Emotion Detection
             Uses a Convolutional Neural Network (CNN) to classify 7 emotions:
             happy, sad, angry, surprise, fear, disgust, neutral
